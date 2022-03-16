@@ -3,10 +3,10 @@
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Ukraine_%28with_coat_of_arms_2%29.svg/1280px-Flag_of_Ukraine_%28with_coat_of_arms_2%29.svg.png" width="300" height="180"></td>
   </tr>
   <tr>
-    <td align="center"><b>⚠ My lovely country has been invaded by Russia and is currently at war ⚠</b></td>
+    <td align="center"><b>⚠ Russia has invaded Ukraine and already killed thousands of civilians, including more than 105 children. The death toll is still counting. It is a war and we need your help. Let's stand together against the Russian regime. ⚠</b></td>
   </tr>
   <tr>
-    <td align="center">Due to the matter, all activity on my GitHub repositories might be delayed</td>
+    <td align="center">**Due to the matter, all activity on my GitHub repositories might be delayed**</td>
   </tr>
   <tr>
     <td align="center">Learn more about the <a href="https://uacrisis.org/en/russia-attacks-ukraine-live-update">conflict</a> and how you can help</td>
